@@ -1,3 +1,7 @@
+<!-- websites for MarkDown
+https://www.markdownguide.org/cheat-sheet/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
+
 <h2>
   Hi there, I'm Daniel
 </h2>
