@@ -9,7 +9,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 </h2>
 
 <p>
-  I'm a student currently studying CS at the University of Virginia. 
+  I'm a student currently studying CS at the University of Virginia. Check out my website <https://danielgao2766.github.io/>
 </p>
 
 <!--
