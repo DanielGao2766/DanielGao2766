@@ -5,7 +5,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 -->
 
 <h2>
-  Hello Everyone, I'm Daniel
+  Hi there, I'm Daniel
 </h2>
 
 <p>
