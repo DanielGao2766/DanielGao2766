@@ -39,5 +39,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   Github Stats
 </h2>
 
-
+[![danielgao2766's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgao2766)](https://github.com/danielgao2766/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgao2766&layout=compact)](https://https://github.com/DanielGao2766)
